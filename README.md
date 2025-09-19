@@ -20,7 +20,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 4. Add your app to Firebase:
    - Go to **Project Settings** and get your Firebase **config object** for use in the app.
 5. Replace the Firebase configuration in your project with the one from your Firebase console.
-
 ```js
 In src/firebase.js, replace with your Firebase config
 import firebase from 'firebase/app';

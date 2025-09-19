@@ -6,7 +6,6 @@
 
 > ✨ Built with React, Firebase, and Smartwatch Integration
 
-
 ## 🌟 Features
 
 - ❤️ Real-time **Heart Rate** tracking  

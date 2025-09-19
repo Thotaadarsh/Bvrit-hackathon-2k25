@@ -96,4 +96,3 @@ Important Notes:
 Replace the API URL with the real endpoint from your smartwatch.
 
 Set up Firebase in your project to handle data storage and authentication.
-

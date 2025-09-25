@@ -137,4 +137,3 @@ If you like this project, please consider giving it a star:
 [Sai Surya](https://github.com/saisurya123658)** – Project Creator & Developer
 
 ![Thank You](https://via.placeholder.com/1200x200?text=Thanks+for+Using+AI+Smartwatch+Tracker+%F0%9F%92%AA)
-

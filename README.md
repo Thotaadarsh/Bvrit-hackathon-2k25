@@ -16,7 +16,6 @@
 - 📊 Clean & responsive dashboard  
 
 
-
 ## 📤 Smartwatch API Integration
 
 Replace dummy API URLs in your project with the real one from your smartwatch:
